@@ -1,0 +1,8 @@
+{
+  "name": "ai-marketer-project",
+  "private": true,
+  "scripts": {
+    "dev:api": "npm start --prefix backend",
+    "dev:web": "npm run dev --prefix frontend"
+  }
+}
